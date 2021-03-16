@@ -3,10 +3,10 @@
 </h1>
 
 <p align='center'>
-  A Machine Learning enthusiast from Pune, India.
+  A Machine Learning enthusiast and UI Designer from Pune, India.
 </p>
 
- <a href="https://www.linkedin.com/in/ayush2196/">
+ <a align='center' href="https://www.linkedin.com/in/ayush2196/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <!---
