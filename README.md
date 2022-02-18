@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Machine Learning enthusiast and UI Designer from Pune, India.
+  A Machine Learning enthusiast and Python Developer doing my M.Sc. in Data Analytics from Mannheim, Germany.
 </p>
 
 <p align='center'>
